@@ -4,3 +4,5 @@ Text, id and isComplete data are stored.
 
 Create a new react project and place the files. 
 You can start it with the "npm start" command on terminal.
+
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/81321769/189549048-5dd3a977-8a5a-4505-a0eb-2e18b827faef.png">
