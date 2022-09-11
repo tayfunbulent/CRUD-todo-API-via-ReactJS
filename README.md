@@ -13,16 +13,23 @@ patch example for Mobile ->
 
 - post
 <img width="534" alt="image" src="https://user-images.githubusercontent.com/81321769/189549129-e1b4bded-801d-464c-94f8-3122378de9cf.png">
+
 ---
+
 - get
 <img width="543" alt="image" src="https://user-images.githubusercontent.com/81321769/189549141-980f43e0-fdc5-499d-a6cf-bf89b783918b.png">
+
 ---
+
 - delete
 <img width="588" alt="image" src="https://user-images.githubusercontent.com/81321769/189549233-98104877-b46e-4070-8c8f-ece0278a951a.png">
+
 ---
+
 - patch
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/81321769/189549215-f779dbc7-39fb-4812-b1f8-8dd06128cf15.png">
+
 ---
+
 - completed
 <img width="577" alt="image" src="https://user-images.githubusercontent.com/81321769/189549255-2c076987-26bb-4694-a094-ac64f48eb1b8.png">
-
